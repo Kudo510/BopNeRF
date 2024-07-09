@@ -1,0 +1,14 @@
+pyyaml
+einops
+gitpython
+numpy
+opencv-python
+moviepy
+tensorboard
+torch-tb-profiler
+albumentations
+IPython
+pymcubes
+trimesh
+open3d
+
